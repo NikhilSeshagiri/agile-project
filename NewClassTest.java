@@ -8,10 +8,7 @@ import java.sql.ResultSet;
 import org.junit.*;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author drasti patel
- */
+
 public class NewClassTest {
     
     public NewClassTest() {
